@@ -48,7 +48,9 @@
       2. graphs
 
 
-![Types of data structures](https://i.imgur.com/kuxxXeL.png)
+<!-- ![Types of data structures](https://i.imgur.com/kuxxXeL.png) -->
+
+![intro](../imgs/intro.png)
 
 
 ---
