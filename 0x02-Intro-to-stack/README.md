@@ -50,4 +50,19 @@ class Node {
 }
 ```
 
+1. first node it's next will point to null.
+2. all the other nodes their next points to the earlier node (where the top is).
+3. the top will always points to the latest node added.
+
+### To delete a node
+
+1. create a temp pointer pointing at stack's top
+2. move the stack's top to the next node (point to next)
+
+<div style="display: flex;">
+<img width="200px" src="../imgs/ls_del_1.png">
+<img width="200px" src="../imgs/ls_del_2.png">
+<img width="200px" src="../imgs/ls_del_3.png">
+</div>
+
 ---
